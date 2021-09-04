@@ -1,6 +1,6 @@
 # Employee-Management-System
 
-This application is a mixture of Employee Management & Inventory Management System. This demo application is created for my own company <a href="https://www.facebook.com/Takwaglovesknitting">Takwa Gloves Kintting Co.</a>
+This application is a mixture of Employee Management & Inventory Management System. This demo application is created for my own company <a href="https://www.facebook.com/Takwaglovesknitting">Takwa Gloves Knitting Co.</a>
 
 Here all the details of Employees, Customers, Products will be stored. Daily info of employees, daily inventory, pending orders, delivered orders all info also will be stored. After delivering an order an Bill will be generated.
 
