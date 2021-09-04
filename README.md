@@ -2,7 +2,7 @@
 
 This application is a mixture of Employee Management & Inventory Management System. This demo application is created for my own company <a href="https://www.facebook.com/Takwaglovesknitting">Takwa Gloves Knitting Co.</a>
 
-Here all the details of Employees, Customers, Products will be stored. Daily info of employees, daily inventory, pending orders, delivered orders all info also will be stored. After delivering an order an Bill will be generated.
+Here all the details of Employees, Customers, Products will be stored. Daily info of employees, daily inventory, pending orders, delivered orders all info also will be stored. After delivering an order a Bill will be generated.
 
 This project is implemented using C# with Windows Forms for the front end development. For database, MS Sql was used.
 
