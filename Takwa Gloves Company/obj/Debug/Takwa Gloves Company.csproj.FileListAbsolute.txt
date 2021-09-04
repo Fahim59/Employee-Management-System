@@ -1,0 +1,26 @@
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\bin\Debug\Takwa Gloves Company.exe.config
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa Gloves Company.csprojResolveAssemblyReference.cache
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Login.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Properties.Resources.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa Gloves Company.csproj.GenerateResource.Cache
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\bin\Debug\Takwa Gloves Company.exe
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\bin\Debug\Takwa Gloves Company.pdb
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa Gloves Company.exe
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa Gloves Company.pdb
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Employee_Reg.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Menu.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Emp_Daily_Info.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Emp_Salary.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Factory_Cost.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Current_Inventory.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Current_Orders.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Customer_Details.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Daily_Product.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Salary_Record.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Sell_Record.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Product.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Summary.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Report.PrintBill.resources
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\RdlCompile.cache
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\RdlCompile.compiled
+F:\C# Code\Takwa Gloves Company\Takwa Gloves Company\obj\Debug\Takwa_Gloves_Company.Report.PrintChalan.resources
